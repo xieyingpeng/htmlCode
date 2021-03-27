@@ -1,0 +1,45 @@
+#conter{
+	height: 900px;
+	width: 700px;
+	border: 2px solid #DEB887;
+	margin-left: 500px;
+	background: url(../images/网页背景1.jpg) no-repeat;
+}
+h1{
+	font-size: 24px;
+	font-family: "微软雅黑";
+	color: #DEB887;
+}
+#conter p{
+	font-size: 16px;
+	font-family: "微软雅黑";
+	color: #A52A2A;
+	
+}
+.f p{
+	font-size: 16px;
+	font-family: "微软雅黑";
+	color: #8A2BE2;
+}
+.btn{
+	width: 76px;
+	height: 48px;
+	background:rgba(255,255,255,0.5);
+	
+}
+tr{
+	padding-left: 100px;
+}
+#footer{
+	width: 700px;
+	height: 130px;
+	background-color: black;
+}
+#footer p{
+	font-size: 18px;
+	font-family: "微软雅黑";
+	color: beige;
+	padding-top: 10px;
+	line-height: 15px;
+	
+}

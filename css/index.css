@@ -1,0 +1,47 @@
+#banner{
+	width: 980px;
+	margin: 0 auto;
+}
+html{
+	background-color: lightgray;
+}
+#head img{
+	left: auto;
+}
+#head  ul li {
+	display: inline-block;
+	float: right;
+	padding-left: 20px;
+	
+}
+a{
+	text-decoration: none;
+	
+}
+a:active{
+	
+	color: aqua;/* 点击时 */
+	
+}
+a:hover{
+	text-decoration: underline;
+	color: red;/* 鼠标放上去时 */
+	
+}
+#wz{
+	background-color: antiquewhite;
+	height: 450px;
+}
+h1{
+	
+	font-size: 24px;
+	text-shadow: 5px 5px 5px cyan ;
+	
+	
+}
+#comm{
+	background-color: lemonchiffon;
+}
+#footer{
+	background-color: gray;
+}
